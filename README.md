@@ -25,5 +25,4 @@ O modelo utilizado é um **Naive Bayes Multinomial**, treinado com uma base real
 - **Pandas** – manipulação de dados
 - **Scikit-learn** – machine learning (treino do modelo)
 - **HTML + CSS** – interface e estilização
-- **Jinja2** – renderização de templates
 
